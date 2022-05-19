@@ -10,8 +10,6 @@ public class BusClass {
     static int currentSpeed = 0;
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
         /**
          * 1. 최대승객수
          * 2. 현재승객수
